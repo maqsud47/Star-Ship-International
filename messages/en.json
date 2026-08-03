@@ -1,0 +1,557 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Star Ship International — Customs Clearing, Logistics & Trade Consultancy",
+      "description": "Trusted customs clearing & forwarding, logistics, and trade consultancy in Bangladesh since 1997 — Chittagong Port, Dhaka Airport, Benapole Land Port & ICD Komolapur."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "clients": "Clients",
+    "contact": "Contact",
+    "roadTransport": "Road Transport",
+    "gallery": "Gallery"
+  },
+  "cta": {
+    "getQuote": "Get a Quote",
+    "ourServices": "Our Services",
+    "viewServices": "View Services",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn more",
+    "sendMessage": "Send Message",
+    "viewAll": "View all",
+    "callUs": "Call us",
+    "whatsapp": "WhatsApp"
+  },
+  "topbar": {
+    "hours": "24/7 support",
+    "email": "Email us"
+  },
+  "header": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menuTitle": "Menu"
+  },
+  "language": {
+    "label": "Language",
+    "en": "EN",
+    "bn": "বাং",
+    "switchToEn": "Switch to English",
+    "switchToBn": "Switch to Bangla"
+  },
+  "footer": {
+    "tagline": "Customs Clearing & Forwarding · Logistics · Trade Consultancy",
+    "blurb": "A trusted customs clearing & forwarding, logistics, and trade consultancy company in Bangladesh, serving importers and exporters since 1997.",
+    "servicesTitle": "Services",
+    "linksTitle": "Quick links",
+    "officesTitle": "Our offices",
+    "followTitle": "Follow us",
+    "rights": "All rights reserved.",
+    "authorized": "Authorized C&F agent under the Bangladesh Customs Authority."
+  },
+  "offices": {
+    "dhaka": "Head Office — Dhaka",
+    "chittagong": "Chittagong Office",
+    "benapole": "Benapole Office",
+    "dhakaAddress": "Planners Tower (15th Floor), Room No. 01, 13/A Sonargaon Road, Dhaka",
+    "chittagongAddress": "Shimla House (5th Floor), 146/A Sk. Mujib Road (Azu Shah Mazar Gate), Agrabad C/A, Chittagong",
+    "benapoleAddress": "Arafath Bhaban (2nd Floor), Benapole, Jessore",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email"
+  },
+  "clients": {
+    "list": [
+      "Asian Paints (Bangladesh) Ltd.",
+      "MEL Group",
+      "Mediastar Ltd. (The Daily Prothom Alo)",
+      "J.M. Fabrics Ltd.",
+      "Rahim Textiles Mills PLC",
+      "Indesore Printing & Accessories Ltd.",
+      "Trent Shoe Ltd.",
+      "R.tex Fashion Ltd.",
+      "bKash Ltd."
+    ]
+  },
+  "services": {
+    "customs": {
+      "name": "Customs Clearance",
+      "short": "Import and export clearance at every major gateway, as your authorized C&F agent."
+    },
+    "freight": {
+      "name": "Freight & Shipping",
+      "short": "Ocean, air, and vessel freight, managed from booking to delivery."
+    },
+    "specialized": {
+      "name": "Specialized Cargo",
+      "short": "From DG goods/ISO tank to heavy machinery, cargo that needs extra care, handled right."
+    },
+    "logistics": {
+      "name": "Logistics Solutions",
+      "short": "Complete logistics support, from port to your door."
+    },
+    "consultancy": {
+      "name": "Trade Consultancy",
+      "short": "LC opening advisory plus tax, tariff, and duty calculation you can rely on."
+    },
+    "warehouse": {
+      "name": "Warehouse Management",
+      "short": "Secure storage and inventory support, so your cargo is never out of sight."
+    }
+  },
+  "gateways": {
+    "chittagong": {
+      "name": "Chittagong Sea Port",
+      "desc": "Bangladesh's principal seaport for containerized and bulk import/export cargo."
+    },
+    "dhaka": {
+      "name": "Dhaka Airport",
+      "desc": "Fast air-freight clearance and forwarding for time-critical shipments."
+    },
+    "benapole": {
+      "name": "Benapole Land Port",
+      "desc": "The main land gateway for trade with India, handled by our on-site team."
+    },
+    "icd": {
+      "name": "ICD Komolapur",
+      "desc": "Inland container depot clearance in Dhaka, close to your business."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Customs Clearing · Logistics · Trade Consultancy",
+      "title": "Bangladesh's Trusted Customs Clearing, Freight Forwarding & Logistics Partner Since 1997.",
+      "subtitle": "Star Ship International clears, forwards, and transports import and export cargo across Chittagong, Dhaka Airport, Benapole and ICD Komolapur — reliably, since 1997."
+    },
+    "trust": {
+      "items": [
+        "Est. 1997",
+        "Bangladesh Customs–authorized C&F agent",
+        "4 major gateways",
+        "24/7 client support"
+      ]
+    },
+    "services": {
+      "eyebrow": "What we do",
+      "title": "Services built around your cargo",
+      "subtitle": "End-to-end clearing, consulting, transport, and storage — from a single, accountable partner."
+    },
+    "gateways": {
+      "eyebrow": "Where we operate",
+      "title": "Gateways we serve",
+      "subtitle": "A presence at Bangladesh's critical trade gateways means faster, smoother operations for you."
+    },
+    "stats": {
+      "eyebrow": "Track record",
+      "title": "Three decades of moving cargo",
+      "items": {
+        "since": {
+          "value": "1997",
+          "label": "Operating since"
+        },
+        "experience": {
+          "value": "30+",
+          "label": "Years of experience"
+        },
+        "consignments": {
+          "value": "1 Million+",
+          "label": "Completed consignments"
+        },
+        "support": {
+          "value": "24/7",
+          "label": "Client support"
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Why partner with us",
+      "title": "The advantages of a seasoned operator",
+      "items": {
+        "experience": {
+          "title": "Decades of experience",
+          "desc": "Navigating Bangladesh's customs and logistics landscape since 1997."
+        },
+        "presence": {
+          "title": "Every major gateway",
+          "desc": "Chittagong, Dhaka Airport, Benapole and ICD Komolapur — for smoother operations."
+        },
+        "endToEnd": {
+          "title": "End-to-end service",
+          "desc": "From documentation and consulting to transport and warehousing, under one roof."
+        },
+        "responsive": {
+          "title": "24/7 responsiveness",
+          "desc": "A responsive team offering round-the-clock support and real-time updates."
+        },
+        "trusted": {
+          "title": "Trusted by leaders",
+          "desc": "Chosen by industry giants and growing enterprises across Bangladesh."
+        }
+      }
+    },
+    "clients": {
+      "eyebrow": "Valued clients",
+      "title": "Trusted by leading businesses",
+      "subtitle": "From industry giants to dynamic enterprises across RMG, paints, ceramics, FMCG, media, and financial services."
+    },
+    "wing": {
+      "eyebrow": "Our transportation wing",
+      "name": "BdSHIP Trans Service",
+      "line": "Our own fleet of 20+ vehicles — from pickups to 40-ton trailers — moving your cargo from any port to your door.",
+      "readMore": "Read more"
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Common questions",
+      "items": [
+        {
+          "q": "What does a C&F agent do?",
+          "a": "A Customs Clearing & Forwarding (C&F) agent handles the documentation, duty assessment, and customs formalities needed to legally import or export goods. Star Ship International is authorized by the Bangladesh Customs Authority to clear cargo on your behalf at every major gateway."
+        },
+        {
+          "q": "Which ports and gateways do you operate at?",
+          "a": "We operate at Chittagong Sea Port, Dhaka Airport, Benapole Land Port, and ICD Komolapur, with offices in Dhaka, Chittagong, and Benapole."
+        },
+        {
+          "q": "Can you handle heavy or oversized cargo?",
+          "a": "Yes. Through our transport wing, BdSHIP Trans Service, we move heavy machinery, boilers, steel plates, generators, and other oversized cargo using cover vans, trailers, and multi-axle equipment."
+        },
+        {
+          "q": "Do you help with LC opening and duty calculation?",
+          "a": "Our trade consultancy team advises on Letter of Credit (LC) opening and calculates applicable tax, tariff, and duties, so there are no surprises at clearance."
+        },
+        {
+          "q": "How do I get a quote?",
+          "a": "Send us your cargo details through the quote form and our team will respond with a tailored solution. You can also reach us on WhatsApp or by phone, any time."
+        },
+        {
+          "q": "Can I track my shipment online?",
+          "a": "We handle shipment updates personally rather than through an automated tracker. Contact your Star Ship coordinator any time and we'll give you a real-time status."
+        }
+      ]
+    },
+    "closing": {
+      "title": "Ready to move your cargo?",
+      "subtitle": "Get a quote from a Bangladesh Customs–authorized C&F partner operating since 1997."
+    }
+  },
+  "common": {
+    "servicesAll": "All services",
+    "talkToUs": "Talk to us",
+    "whatWeHandle": "What we handle",
+    "readMore": "Read more",
+    "backToTop": "Back to top",
+    "skipToContent": "Skip to content"
+  },
+  "servicesPage": {
+    "eyebrow": "Services",
+    "title": "End-to-end logistics for import and export",
+    "subtitle": "From customs clearance to final delivery, Star Ship International handles every step — so your cargo keeps moving.",
+    "additionalTitle": "More ways we help",
+    "additional": [
+      "Clearing & forwarding at air, sea & land ports",
+      "Heavy-lift carrying, handling & transportation",
+      "General cargo carrying",
+      "All kinds of export cargo handling"
+    ]
+  },
+  "serviceDetail": {
+    "customs": {
+      "tagline": "Authorized C&F agent under the Bangladesh Customs Authority.",
+      "long": "Our team clears cargo through Chittagong Sea Port, Dhaka Airport, Benapole Land Port, ICD Komolapur, and EPZ, backed by decades of experience with Bangladesh Customs. We also handle DG (dangerous goods) cargo, which needs extra documentation and care to move safely and legally.",
+      "points": [
+        "Sea Port Clearance (Chittagong)",
+        "Airport Clearance (Dhaka)",
+        "Land Port Clearance (Benapole)",
+        "ICD Komolapur Clearance",
+        "EPZ Clearance",
+        "Economical Zone",
+        "DG Cargo Clearance/ISO Tank"
+      ]
+    },
+    "freight": {
+      "tagline": "Ocean, air, and vessel freight, managed from booking to delivery.",
+      "long": "We arrange ocean freight (FCL and LCL), air freight, and vessel/ship agency services for cargo moving in and out of Bangladesh. Our project cargo team plans oversized or complex shipments step by step, and we handle break bulk and general cargo of all kinds.",
+      "points": [
+        "Ocean Freight (FCL & LCL)",
+        "Air Freight",
+        "Vessel & Ship Agency Services",
+        "Project Cargo Handling",
+        "Break Bulk Cargo Handling",
+        "General Cargo Carrying"
+      ]
+    },
+    "specialized": {
+      "tagline": "Expert handling for cargo that needs extra care.",
+      "long": "Some cargo needs more than standard clearance. Our team is experienced with chemical shipments, LNG/LPG equipment, DG (dangerous goods) cargo, heavy machinery like boilers and generators, textile and RMG cargo, industrial raw materials, and branded consumer goods, each with its own handling rules and safety steps.",
+      "points": [
+        "Chemical Cargo",
+        "LNG/LPG Equipment",
+        "DG Cargo",
+        "ISO Tank",
+        "Heavy Machinery & Boilers",
+        "Textile & RMG Cargo",
+        "Industrial Raw Materials (Paints & Ceramics)",
+        "Branded Consumer Goods"
+      ]
+    },
+    "logistics": {
+      "tagline": "Complete logistics support, from port to your door.",
+      "long": "Once your cargo clears customs, we take it the rest of the way. Our own fleet handles transportation, and we offer secure warehousing with inventory management support, distribution, and full door-to-door delivery, backed by 24/7 support so you always know where your cargo stands.",
+      "points": [
+        "Door-to-Door Delivery",
+        "Fleet Transportation",
+        "Warehousing & Storage",
+        "Distribution Network",
+        "Inventory Management Support",
+        "24/7 Cargo Support"
+      ]
+    },
+    "consultancy": {
+      "tagline": "LC opening advisory and duty & tax calculation you can trust.",
+      "long": "Our trade consultancy team guides you through Letter of Credit (LC) opening and calculates the tax, tariff, and duties that apply to your cargo — so you can plan costs accurately and avoid delays at clearance.",
+      "points": [
+        "Letter of Credit (LC) opening advisory",
+        "Tax, tariff & duty calculation",
+        "Import/export documentation guidance",
+        "Cost planning before you ship"
+      ]
+    },
+    "warehouse": {
+      "tagline": "Secure storage and inventory support, so your cargo is never out of sight.",
+      "long": "Our warehousing facilities give you a secure place to store cargo before, during, and after clearance, whether you need short-term holding while paperwork is processed or long-term storage as part of your supply chain. We also manage inventory, tracking stock levels and coordinating pickup and dispatch, so our warehouse works as a real part of your logistics chain, not just a storage room.",
+      "points": [
+        "Short-Term Storage",
+        "Long-Term Storage",
+        "Inventory Tracking",
+        "Pickup & Dispatch Coordination",
+        "Secure, Monitored Facilities",
+        "Damage & Loss Prevention"
+      ]
+    }
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "Moving Bangladesh's trade since 1997",
+    "subtitle": "A customs clearing, forwarding, and logistics company built on trust, speed, and professional excellence.",
+    "foundedYear": "1997",
+    "foundedLabel": "Founded",
+    "storyTitle": "Our story",
+    "story": [
+      "Founded in 1997 by proprietor Mr. M. Zaman Chowdhury, Star Ship International began as a customs clearing and forwarding agent and grew into a full logistics and trade-facilitation partner. Today we operate across Chittagong Sea Port, Dhaka Airport, Benapole Land Port, and ICD Komolapur.",
+      "Also trading as BdSHIP Trans Service for transportation, we've built a reputation for reliability, speed, and professional excellence — becoming the business partner that importers and exporters count on."
+    ],
+    "visionTitle": "Vision",
+    "vision": "To become the leading logistics and trade solutions partner in Bangladesh — where trust, innovation, and efficiency drive client success.",
+    "missionTitle": "Mission",
+    "mission": [
+      "Provide end-to-end clearing and forwarding services with unmatched accuracy and timeliness.",
+      "Ensure smooth import/export operations through expert LC opening and duty/tax consultation.",
+      "Deliver safe, reliable transportation and warehousing solutions tailored to client needs.",
+      "Empower clients with transparent, value-driven services that support their growth."
+    ],
+    "philosophyTitle": "Our working philosophy",
+    "philosophy": "Ensure customer satisfaction. We become your business partner — understanding your product and needs, then offering expert advice and solutions for your export and import cargo, backed by a skilled team offering 24/7 service.",
+    "wingTitle": "Our transportation wing",
+    "wingName": "BdSHIP Trans Service",
+    "wing": "Our independent transportation wing, authorized by the Government of Bangladesh, is equipped with cover vans, mini cover vans, multi-purpose trucks, and trailers — driven by skilled and careful personnel for safe delivery nationwide.",
+    "teamTitle": "Management team",
+    "teamSubtitle": "The people who keep your cargo moving.",
+    "team": [
+      {
+        "name": "Mr. M. Zaman Chowdhury",
+        "role": "Proprietor"
+      },
+      {
+        "name": "Syed Kwaser Abbas",
+        "role": "Co-ordinator"
+      },
+      {
+        "name": "Kazi Mossadik Mia",
+        "role": "Manager, Head Office"
+      },
+      {
+        "name": "Jakir Hossain Bhuyan",
+        "role": "Import Manager, Chittagong Office"
+      },
+      {
+        "name": "Sharik Chowdhury",
+        "role": "Export Manager, Chittagong Office"
+      },
+      {
+        "name": "Mazharul Islam",
+        "role": "Manager, Airport"
+      },
+      {
+        "name": "Ashad Uzzaman",
+        "role": "Manager, Benapole"
+      },
+      {
+        "name": "Eng. Mushfiq-Uz-Zaman Chowdhury",
+        "role": "General Manager"
+      }
+    ],
+    "structureTitle": "How we're organized",
+    "structure": "Proprietor → Co-ordinator → port unit managers (Chittagong Sea Port, Dhaka Air Freight, Benapole Land Port), each supported by customs sarkers, jetty sarkers, a civil engineer, and skilled workers."
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Let's move your cargo.",
+    "subtitle": "Reach us any time — our team responds around the clock across all three offices.",
+    "officesTitle": "Our offices",
+    "sendMessageTitle": "Send us a message",
+    "sendMessageDesc": "For quotes with cargo details, use the Quote form. For anything else, we're all ears.",
+    "hoursLabel": "Hours",
+    "hoursValue": "24/7",
+    "getDirections": "Get directions",
+    "mapTitle": "Head office — Dhaka",
+    "quoteTeaserTitle": "Need a quote?",
+    "quoteTeaserDesc": "Tell us your service, port, and cargo — we'll get back with a tailored solution."
+  },
+  "quotePage": {
+    "eyebrow": "Get a quote",
+    "title": "Tell us about your cargo.",
+    "subtitle": "Share a few details and we'll come back with a tailored solution — usually within one business day.",
+    "formTitle": "Quote request",
+    "asideTitle": "Prefer to talk?",
+    "asideDesc": "Reach any office 24/7 or message us on WhatsApp. We'll answer your questions before you commit."
+  },
+  "forms": {
+    "openQuote": "Open quote form",
+    "name": "Name",
+    "namePlaceholder": "Your full name",
+    "company": "Company",
+    "companyPlaceholder": "Company name (optional)",
+    "email": "Email",
+    "emailPlaceholder": "you@company.com",
+    "phone": "Phone",
+    "phonePlaceholder": "+880 …",
+    "service": "Service",
+    "servicePlaceholder": "Select a service",
+    "port": "Port / gateway",
+    "portPlaceholder": "Select a gateway",
+    "cargoType": "Cargo type",
+    "cargoTypePlaceholder": "e.g. Heavy machinery, textiles, chemicals",
+    "message": "Message",
+    "messagePlaceholder": "How can we help?",
+    "details": "Details",
+    "detailsPlaceholder": "Origin/destination, timeline, weight or volume, any special handling…",
+    "submitContact": "Send message",
+    "submitQuote": "Request quote",
+    "submitting": "Sending…",
+    "successTitle": "Thanks — we've got your message.",
+    "successBody": "Our team will get back to you shortly. For anything urgent, WhatsApp us at",
+    "successAgain": "Send another",
+    "errorTitle": "Something went wrong.",
+    "errorBody": "Please try again, or reach us by phone or WhatsApp.",
+    "errors": {
+      "nameRequired": "Please enter your name.",
+      "emailRequired": "Please enter your email.",
+      "emailInvalid": "Please enter a valid email.",
+      "phoneRequired": "Please enter a phone number.",
+      "messageRequired": "Please write a short message.",
+      "serviceRequired": "Please select a service.",
+      "portRequired": "Please select a gateway.",
+      "cargoTypeRequired": "Please describe your cargo.",
+      "detailsRequired": "Please add a few details.",
+      "config": "Form is not yet configured. Add NEXT_PUBLIC_WEB3FORMS_KEY to .env.local."
+    }
+  },
+  "roadTransportPage": {
+    "eyebrow": "Road transportation",
+    "title": "Our own fleet, 20+ vehicles strong.",
+    "subtitle": "From small parcels to 40-ton industrial loads — no third-party transport, no handoffs, no surprises.",
+    "intro": [
+      "Star Ship International owns and operates a fleet of over 20 vehicles, built to move cargo of every size across Bangladesh. From small parcels to 40-ton industrial loads, our fleet is ready to handle it without relying on third-party transport. This means fewer delays, better tracking, and full control over your cargo from pickup to delivery.",
+      "We match the right vehicle to the size of your consignment. A small order does not need a container truck, and a factory-scale shipment cannot move on a pickup van. Our team assesses your cargo volume and assigns the right truck for the job, so you never pay for more capacity than you need, and your goods never travel in a vehicle too small to carry them safely.",
+      "We deliver from any port in Bangladesh, Chittagong Sea Port, Dhaka Airport, Benapole Land Port, or ICD Komolapur, to anywhere in the country. Every delivery is handled by trained, careful drivers who understand the value and urgency of the cargo they carry. Once we commit to a delivery timeline, we hold to it."
+    ],
+    "fleetTitle": "Fleet breakdown",
+    "fleetSubtitle": "By vehicle type — we assign the right one to your consignment.",
+    "capacityLabel": "Capacity",
+    "fleet": {
+      "pickup": {
+        "name": "Small Pickup",
+        "desc": "Our small pickups are built for light, fast deliveries. They are the right choice for sample shipments, small cartons, retail stock, and urgent city deliveries where speed matters more than volume. They let us dispatch quickly without waiting for a larger vehicle to free up.",
+        "capacity": "up to 2 tons"
+      },
+      "truck": {
+        "name": "Truck",
+        "desc": "Our mid-size trucks carry medium-volume consignments such as palletized goods, packaged retail products, and general cargo that outgrows a pickup but does not need a full container truck. This size covers most day-to-day distribution needs across the country.",
+        "capacity": "up to 5 tons"
+      },
+      "containerTruck": {
+        "name": "Container Truck",
+        "desc": "These trucks move full container loads directly from port to factory or warehouse. They are built for standard shipping containers and are the backbone of our port-to-door container transport, keeping your goods sealed and secure from the moment they leave the port.",
+        "capacity": "up to 13 tons"
+      },
+      "trailer": {
+        "name": "Trailer",
+        "desc": "Our trailers handle the heaviest cargo we move, including industrial machinery, boilers, steel plates, and other oversized equipment. This is our largest capacity group, built specifically for the heavy-lift work our clients trust us with.",
+        "capacity": "up to 40 tons"
+      },
+      "lngTanker": {
+        "name": "LNG Tanker Truck",
+        "desc": "Our specialized LNG tanker trucks are built to transport liquid gas cargo safely and in compliance with strict handling regulations. These trucks are reserved for LNG and LPG shipments that require this specific equipment and trained handling procedures.",
+        "capacity": "up to 26,000 litres"
+      }
+    }
+  },
+  "galleryPage": {
+    "eyebrow": "Gallery",
+    "title": "Our work, on the ground.",
+    "subtitle": "Consignments clearing the ports, cargo loading onto our trucks, and the team that makes it happen.",
+    "sectionTitle": "From port to delivery",
+    "sectionSubtitle": "A look at everyday operations across Chittagong, Dhaka, Benapole, and ICD Komolapur.",
+    "captions": {
+      "ctgPort": "Container operations at Chittagong Sea Port",
+      "airCargo": "Air freight handling at Dhaka Airport",
+      "icd": "Container handling at ICD Komolapur",
+      "benapole": "Land port crossing at Benapole",
+      "brandedTruck": "Our branded container truck ready for dispatch",
+      "loading": "Cargo loading onto the fleet",
+      "fleetLine": "Fleet lined up for the day's deliveries",
+      "heavyLift": "Heavy-lift cargo secured for transport",
+      "delivery": "On the road, port to door",
+      "team": "The Star Ship International team"
+    }
+  },
+  "clientsPage": {
+    "eyebrow": "Clients",
+    "title": "Trusted by leading businesses",
+    "subtitle": "From industry giants to dynamic enterprises, companies across Bangladesh rely on Star Ship International to move their cargo.",
+    "clientsTitle": "Valued clients",
+    "industriesTitle": "Industries we serve",
+    "industries": [
+      "RMG & textiles",
+      "Paints & coatings",
+      "Ceramics",
+      "FMCG & household",
+      "Media",
+      "Financial services"
+    ],
+    "expertiseTitle": "Cargo we've handled",
+    "expertiseSubtitle": "Real project categories from our track record.",
+    "expertise": [
+      "Heavy machines — dyeing machines, boilers, steel plates, compactors, generators, radar",
+      "Raw materials for the paints and ceramic industries",
+      "Chemicals and dyeing chemicals for dyeing & washing plants",
+      "Fabrics, yarn, and accessories for the RMG industry",
+      "Branded pumps, dispensers, sanitary ware, and ceramic tiles",
+      "All kinds of export cargo"
+    ],
+    "galleryTitle": "On the ground",
+    "gallerySubtitle": "Our fleet and cargo in action."
+  },
+  "brand": {
+    "name": "Star Ship International",
+    "first": "Star Ship",
+    "rest": "International"
+  },
+  "notFound": {
+    "title": "This page has drifted off course.",
+    "body": "The page you're looking for doesn't exist or has moved. Let's get you back on route.",
+    "home": "Back to home"
+  }
+}
