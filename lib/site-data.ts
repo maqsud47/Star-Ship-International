@@ -46,7 +46,7 @@ export const CONTACT = {
 // TODO: client to provide the LinkedIn URL.
 export const SOCIAL = {
   facebook: "https://www.facebook.com/share/1C5qRWshcM/",
-  linkedin: "#",
+  linkedin: "https://www.linkedin.com/company/star-ship-international/",
 } as const;
 
 export const NAV_LINKS = [
