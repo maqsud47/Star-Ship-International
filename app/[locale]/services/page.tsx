@@ -20,7 +20,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "servicesPage" });
-  return { title: t("title") };
+  // Without its own description this page would inherit the home one verbatim.
+  return { title: t("title"), description: t("subtitle") };
 }
 
 function ServiceRow({ slug, index }: { slug: string; index: number }) {

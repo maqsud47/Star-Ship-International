@@ -2,7 +2,7 @@
   "metadata": {
     "home": {
       "title": "Star Ship International — Customs Clearing, Logistics & Trade Consultancy",
-      "description": "Trusted customs clearing & forwarding, logistics, and trade consultancy in Bangladesh since 1997 — Chittagong Port, Dhaka Airport, Benapole Land Port & ICD Komolapur."
+      "description": "Trusted customs clearing & forwarding, logistics and trade consultancy in Bangladesh since 1997 — Chittagong Port, Dhaka Airport, Benapole & ICD Komolapur."
     }
   },
   "nav": {
@@ -268,7 +268,8 @@
         "EPZ Clearance",
         "Economical Zone",
         "DG Cargo Clearance/ISO Tank"
-      ]
+      ],
+      "meta": "Authorized C&F agent clearing import and export cargo at Chittagong Port, Dhaka Airport, Benapole Land Port, ICD Komolapur and EPZ."
     },
     "freight": {
       "tagline": "Ocean, air, and vessel freight, managed from booking to delivery.",
@@ -280,7 +281,8 @@
         "Project Cargo Handling",
         "Break Bulk Cargo Handling",
         "General Cargo Carrying"
-      ]
+      ],
+      "meta": "Ocean freight (FCL & LCL), air freight, vessel agency and project cargo, managed from booking to delivery in and out of Bangladesh."
     },
     "specialized": {
       "tagline": "Expert handling for cargo that needs extra care.",
@@ -294,7 +296,8 @@
         "Textile & RMG Cargo",
         "Industrial Raw Materials (Paints & Ceramics)",
         "Branded Consumer Goods"
-      ]
+      ],
+      "meta": "Expert handling for chemicals, LNG/LPG equipment, dangerous goods, heavy machinery and RMG cargo, each to its own safety rules."
     },
     "logistics": {
       "tagline": "Complete logistics support, from port to your door.",
@@ -306,7 +309,8 @@
         "Distribution Network",
         "Inventory Management Support",
         "24/7 Cargo Support"
-      ]
+      ],
+      "meta": "Door-to-door logistics after clearance: our own fleet, secure warehousing, inventory management and distribution, with 24/7 support."
     },
     "consultancy": {
       "tagline": "LC opening advisory and duty & tax calculation you can trust.",
@@ -316,7 +320,8 @@
         "Tax, tariff & duty calculation",
         "Import/export documentation guidance",
         "Cost planning before you ship"
-      ]
+      ],
+      "meta": "Letter of Credit (LC) opening advisory plus accurate duty, tax and tariff calculation, so you can plan costs and avoid clearance delays."
     },
     "warehouse": {
       "tagline": "Secure storage and inventory support, so your cargo is never out of sight.",
@@ -328,7 +333,8 @@
         "Pickup & Dispatch Coordination",
         "Secure, Monitored Facilities",
         "Damage & Loss Prevention"
-      ]
+      ],
+      "meta": "Secure short and long-term cargo storage with inventory management, stock tracking and dispatch coordination for your supply chain."
     }
   },
   "about": {

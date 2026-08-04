@@ -82,8 +82,7 @@ in git — keep them backed up separately.
 
 ## Placeholders still to finalise before launch
 
-- Web3Forms access key (forms are inactive without it)
 - Real client logos (currently rendered as text)
-- LinkedIn URL (icon is a placeholder link)
 - Native-speaker review of the Bangla copy
 - Live domain (`starshipintlbd.com`)
+- Heavy-lift / project-cargo photos for the Clients gallery

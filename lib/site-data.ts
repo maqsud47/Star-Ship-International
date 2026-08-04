@@ -43,7 +43,7 @@ export const CONTACT = {
   email: "starshipdhaka@gmail.com",
 } as const;
 
-// TODO: client to provide the LinkedIn URL.
+
 export const SOCIAL = {
   facebook: "https://www.facebook.com/share/1C5qRWshcM/",
   linkedin: "https://www.linkedin.com/company/star-ship-international/",

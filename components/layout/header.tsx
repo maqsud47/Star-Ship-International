@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { Container } from "@/components/common/container";
-import { Button, buttonVariants } from "@/components/ui/button";
+import { Button } from "@/components/ui/button";
 import { QuoteDialog } from "@/components/forms/quote-dialog";
 import { NAV_LINKS } from "@/lib/site-data";
 import { cn } from "@/lib/utils";

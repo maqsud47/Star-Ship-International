@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Check, Quote, Truck } from "lucide-react";
+import { Check, Truck } from "lucide-react";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Metadata } from "next";
 import { Container } from "@/components/common/container";
@@ -8,7 +8,6 @@ import { HeadingRule } from "@/components/common/heading-rule";
 import { SectionEyebrow } from "@/components/common/section-eyebrow";
 import { Reveal } from "@/components/common/reveal";
 import { ClosingCta } from "@/components/sections/closing-cta";
-import { SITE } from "@/lib/site-data";
 
 export async function generateMetadata({
   params,

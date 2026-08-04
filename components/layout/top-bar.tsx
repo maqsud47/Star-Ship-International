@@ -33,9 +33,10 @@ export function TopBar() {
           </span>
         </div>
         <div className="flex items-center gap-3">
-          {/* TODO: real Facebook / LinkedIn URLs from client */}
           <a
             href={SOCIAL.facebook}
+            target="_blank"
+            rel="noopener noreferrer"
             aria-label="Facebook"
             className="transition-colors hover:text-white"
           >
@@ -43,6 +44,8 @@ export function TopBar() {
           </a>
           <a
             href={SOCIAL.linkedin}
+            target="_blank"
+            rel="noopener noreferrer"
             aria-label="LinkedIn"
             className="transition-colors hover:text-white"
           >

@@ -29,7 +29,8 @@ export async function generateMetadata({
   const t = await getTranslations({ locale });
   return {
     title: t(`services.${service.key}.name`),
-    description: t(`serviceDetail.${service.key}.long`),
+    // Short, search-result-friendly copy; `.long` is body text and gets truncated.
+    description: t(`serviceDetail.${service.key}.meta`),
   };
 }
 

@@ -26,12 +26,11 @@ export function Reveal({
     const el = ref.current;
     if (!el) return;
 
-    // Never risk leaving content invisible.
-    if (
-      typeof IntersectionObserver === "undefined" ||
-      window.matchMedia("(prefers-reduced-motion: reduce)").matches
-    ) {
-      setShown(true);
+    // Never risk leaving content invisible. Reduced motion and no-JS already
+    // force opacity:1 in globals.css, so only a missing observer needs a net —
+    // set via the DOM rather than state to avoid a cascading render.
+    if (typeof IntersectionObserver === "undefined") {
+      el.classList.add("is-in");
       return;
     }
 
