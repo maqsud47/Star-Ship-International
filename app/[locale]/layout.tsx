@@ -77,10 +77,7 @@ export async function generateMetadata({
       description: t("description"),
     },
     icons: {
-      icon: [
-        { url: "/favicon.ico", sizes: "any" },
-        { url: "/brand/logo.png", type: "image/png" },
-      ],
+      icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
       apple: "/brand/logo.png",
     },
     manifest: "/manifest.webmanifest",
